@@ -1,17 +1,24 @@
 {
   "name": "ajv-validation-demo",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Two demos for validating either freeform JSON schemas or AsyncAPI schemas using ajv",
+  "main": "index.ts",
   "scripts": {
     "start": "npx ts-node index.ts",
     "test": "npx ts-node test.ts"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "demo",
+    "ajv",
+    "asyncapi",
+    "contract-validation",
+    "schema-validation",
+    "api-schemas"
+  ],
+  "author": "Mikael Vesavuori",
+  "license": "MIT",
   "dependencies": {
-    "ajv": "^8.11.0"
+    "ajv": "8"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "5",
@@ -20,6 +27,6 @@
     "eslint-config-prettier": "8",
     "eslint-plugin-prettier": "4",
     "prettier": "2",
-    "ts-node": "^10.9.1"
+    "ts-node": "10"
   }
 }

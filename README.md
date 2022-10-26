@@ -1,6 +1,6 @@
 # Demos for validating schemas and contracts using ajv
 
-Two demos for validating either freeform JSON schemas and AsyncAPI schemas using [ajv](https://ajv.js.org).
+Two demos for validating either freeform JSON schemas or AsyncAPI schemas using [ajv](https://ajv.js.org).
 
 ## Install
 
