@@ -1,0 +1,61 @@
+{
+  "GetUserNameInput": {
+    "id": 41
+  },
+  "LogGreetedUserEventInput": {
+    "detail": {}
+  },
+  "EventBridgeStandardSchema": {
+    "data": {},
+    "metadata": {
+      "id": "asdf",
+      "correlationId": "asdf",
+      "timestamp": "asdf",
+      "timestampRequest": "asdf",
+      "level": "asdf",
+      "context": {},
+      "version": 1,
+      "user": "asdf",
+      "route": "asdf",
+      "duration": 15,
+      "error": false,
+      "httpStatusCode": 200,
+      "traceId": "asdf",
+      "lifecycleStage": "asdf",
+      "domain": "asdf",
+      "system": "asdf",
+      "service": "asdf",
+      "team": "asdf",
+      "eventType": "asdf",
+      "platform": "asdf",
+      "owner": "asdf",
+      "region": "asdf",
+      "jurisdiction": "asdf"
+    }
+  },
+  "EventBridgeMetadataSchema": {
+    "id": "asdf",
+    "correlationId": "asdf",
+    "timestamp": "asdf",
+    "timestampRequest": "asdf",
+    "level": "asdf",
+    "context": {},
+    "version": 1,
+    "user": "asdf",
+    "route": "asdf",
+    "duration": 15,
+    "error": false,
+    "httpStatusCode": 200,
+    "traceId": "asdf",
+    "lifecycleStage": "asdf",
+    "domain": "asdf",
+    "system": "asdf",
+    "service": "asdf",
+    "team": "asdf",
+    "eventType": "asdf",
+    "platform": "asdf",
+    "owner": "asdf",
+    "region": "asdf",
+    "jurisdiction": "asdf"
+  }
+}
